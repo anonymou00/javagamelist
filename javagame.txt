@@ -1,0 +1,119 @@
+JAVA_GAMES_MASTER/
+
+[ACTION]
+Assassin’s Creed Series/
+- Assassin’s Creed II
+- Assassin’s Creed III
+
+Prince of Persia Series/
+- Sands of Time
+- Warrior Within
+- The Two Thrones
+
+Splinter Cell Series/
+- Pandora Tomorrow
+- Double Agent
+
+Open World/
+- Gangstar Rio
+- Miami Nights 2
+
+Dark Action/
+- Shadowalker
+- The Omen
+- Darkest Fear 3
+
+[HACK_AND_SLASH]
+God of War Style/
+- God of War: Betrayal
+- Hero of Sparta
+- Hero of Sparta II
+
+Devil Style/
+- Devil May Cry
+- Blades & Magic
+- Forgotten Warrior
+- Soul of Darkness
+
+[FPS_SHOOTER]
+Modern Combat Series/
+- Modern Combat 2
+- Modern Combat 3
+
+NOVA Series/
+- NOVA 2
+- NOVA 3
+
+War Shooter/
+- Brothers in Arms 2
+
+Classic Shooter/
+- Far Cry 2
+- Zombie Infection
+
+FPS RPG/
+- Doom RPG
+- Wolfenstein RPG
+
+[RPG]
+Heroes Lore Series/
+- Heroes Lore
+- Wind of Soltia
+
+Classic RPG/
+- Gothic 3
+- The Witcher
+- Zenonia
+- Inotia 3
+- Eternal Legacy
+
+[RACING]
+Asphalt Series/
+- Asphalt 3
+- Asphalt 5
+- Asphalt 6
+
+NFS Series/
+- Need for Speed Hot Pursuit
+
+Real Racing/
+- Real Street Racing 2
+- Ferrari GT Evolution
+
+[FIGHTING]
+
+- Mortal Kombat 3
+- Street Fighter Alpha 3
+- Street Fighter IV
+- King of Fighters 2012
+- Fatal Fury
+- Tekken Mobile
+- SoulCalibur
+
+[PUZZLE]
+
+- Diamond Rush
+- Angry Birds
+
+[PLATFORM]
+
+- Bounce Tales
+- Castlevania
+
+[SPORTS]
+
+- Real Football 2012
+- Midnight Pool
+
+[HORROR]
+
+- Resident Evil Missions 3D
+- Resident Evil Uprising
+
+[ARCADE]
+
+- Tower Bloxx
+
+[EXPERIMENTAL_3D]
+
+- Deep 3D
